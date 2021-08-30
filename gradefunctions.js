@@ -13,10 +13,10 @@ console.log("Range: ", difference(highGrade, lowGrade));
 const len = grades.length;
 const mid = Math.ceil(len / 2);
 let median;
-if (len % 2 == 0) { //If the amount of grades is even, then we need the half of the sum of both mid-range grades.
+    if (len % 2 == 0) { //If the amount of grades is even, then we need the half of the sum of both mid-range grades.
     median = (grades[mid] + grades[mid - 1]) / 2;
-}
-else median = grades[mid - 1];//If the amount of grades is odd, then we just get the median grade.
+    }
+    else median = grades[mid - 1];//If the amount of grades is odd, then we just get the median grade.
 console.log("Median: ", median);
 //Pt. 3 - The range of the grades from the second half of the school year
 const gradesHalf = oldGrades.splice(mid, grades[grades.length - 1])
