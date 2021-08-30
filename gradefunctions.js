@@ -5,3 +5,7 @@ function difference(a, b) {
     dif = a - b;
     return dif;
 }
+//Pt. 1 - The range of the grades (difference between highest and lowest)
+const lowGrade = grades[0];
+const highGrade = grades[grades.length - 1];
+console.log("Range: ", difference(highGrade, lowGrade));
