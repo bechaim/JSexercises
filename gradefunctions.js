@@ -18,3 +18,9 @@ if (len % 2 == 0) { //If the amount of grades is even, then we need the half of 
 }
 else median = grades[mid - 1];//If the amount of grades is odd, then we just get the median grade.
 console.log("Median: ", median);
+//Pt. 3 - The range of the grades from the second half of the school year
+const gradesHalf = oldGrades.splice(mid, grades[grades.length - 1])
+gradesHalf.sort();
+const lowHalfGrade = gradesHalf[0];
+const highHalfGrade = gradesHalf[gradesHalf.length - 1];
+console.log("Half Range: ", difference(highHalfGrade, lowHalfGrade));
