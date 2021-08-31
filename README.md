@@ -13,4 +13,4 @@ This is my repository for exercises in JavaScript.
 
 5. guesscity.js - Aug 31
 
-6. formula1Champions.js - Aug 31
+6. formula1champions.js - Aug 31
