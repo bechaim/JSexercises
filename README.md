@@ -1,5 +1,5 @@
 # JSexercises
-This is my repository for exercises in JavaScript..
+This is my repository for exercises in JavaScript.
 
 1. sumofdigits - Aug 29
 
