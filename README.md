@@ -9,7 +9,7 @@ This is my repository for exercises in JavaScript.
 
 4. gradefunctions - Aug 30
 
- 4a. gradefunctionsrevised - Aug 31 - I have revised the gradefunctions exercise, see commit "Info about gradefunctionsrevised".
+ 4a. gradefunctionsrevised - Aug 31 - a Revision of "gradefunctions.js", see commit "Info about gradefunctionsrevised".
 
 5.
 
