@@ -11,4 +11,6 @@ This is my repository for exercises in JavaScript.
 
  4a. gradefunctionsrevised - Aug 31 - a Revision of "gradefunctions.js", see commit "gradefunctionsrevised".
 
-5.
+5. guesscity.js - Aug 31
+
+6. formula1Champions.js - Aug 31
